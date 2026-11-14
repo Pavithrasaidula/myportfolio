@@ -32,14 +32,14 @@ I'm an aspiring Python developer interested in building web applications and str
 This section is automatically refreshed by GitHub Actions.
 
 <!-- REPOSITORIES:START -->
-- [codemind-c](https://github.com/Pavithrasaidula/codemind-c)
-- [pavi_project](https://github.com/Pavithrasaidula/pavi_project)
-- [Civil-Engineering-Insite-Studio-](https://github.com/Pavithrasaidula/Civil-Engineering-Insite-Studio-)
-- [myportfolio](https://github.com/Pavithrasaidula/myportfolio)
-- [E-Commerswebsite](https://github.com/Pavithrasaidula/E-Commerswebsite)
-- [djangoweb](https://github.com/Pavithrasaidula/djangoweb)
+- [djangoweb](https://github.com/Pavithrasaidula/djangoweb) — A Django-based Product Management System using MySQL, featuring separate Admin and User portals. Includes user registration and login, product listing and details, and admin functionalities to add, view, update, and delete products with stock and image management.
+- [E-Commerswebsite](https://github.com/Pavithrasaidula/E-Commerswebsite) — A skincare e-commerce storefront for Pure Petal Co., built using HTML, CSS, and JavaScript. Features product listings, product images, soap categories, an About section, contact
+- [codemind-c](https://github.com/Pavithrasaidula/codemind-c) — A collection of C programming practice programs covering basic concepts, loops, conditional statements, arrays, strings, number patterns, mathematical problems, and logical problem-solving exercises.
+- [ai-powered-ticket-management](https://github.com/Pavithrasaidula/ai-powered-ticket-management) — AI-Powered Multi-Tenant Ticket Management System using Django
 - [project_dj](https://github.com/Pavithrasaidula/project_dj)
-- [ai-powered-ticket-management](https://github.com/Pavithrasaidula/ai-powered-ticket-management)
+- [myportfolio](https://github.com/Pavithrasaidula/myportfolio) — This is my personal portfolio website built using HTML and CSS.   It showcases my journey as a Full Stack Python Developer.
+- [Civil-Engineering-Insite-Studio-](https://github.com/Pavithrasaidula/Civil-Engineering-Insite-Studio-)
+- [pavi_project](https://github.com/Pavithrasaidula/pavi_project)
 <!-- REPOSITORIES:END -->
 
 ## Connect
